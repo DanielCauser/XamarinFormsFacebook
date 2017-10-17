@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>XamarinFormsFacebook</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.xamarinformsfacebook</string>
+	<string>com.causerexception.xamarinformsfacebook</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -47,12 +47,12 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb1837055326540060</string>
+				<string>fb1982655385305897</string>
 			</array>
 		</dict>
 	</array>
 	<key>FacebookAppID</key>
-	<string>1837055326540060</string>
+	<string>1982655385305897</string>
 	<key>FacebookDisplayName</key>
 	<string>XamarinGDLGroup</string>
 	<key>LSApplicationQueriesSchemes</key>
